@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @selcukunlu
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Android development
 - 📫 How to reach me selcuk.unlu{at}outlook.com.tr
 
 <!---
